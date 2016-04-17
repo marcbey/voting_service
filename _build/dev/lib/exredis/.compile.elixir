@@ -1,0 +1,44 @@
+v2.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Script.beam">>,
+ 'Elixir.Exredis.Script',module,<<"lib/exredis/script.ex">>,
+ ['Elixir.Kernel'],
+ ['Elixir.String.Chars','Elixir.File',erlang,'Elixir.Exredis',crypto,
+  'Elixir.Base'],
+ [],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Config.Config.beam">>,
+ 'Elixir.Exredis.Config.Config',module,<<"lib/exredis/config.ex">>,
+ ['Elixir.Exredis.Config','Elixir.Protocol','Elixir.Module',
+  'Elixir.Kernel.Utils','Elixir.Kernel','Elixir.Config'],
+ [],[],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Api.Helper.beam">>,
+ 'Elixir.Exredis.Api.Helper',module,<<"lib/exredis/api.ex">>,
+ ['Elixir.Kernel','Elixir.Exredis.Api'],
+ [erlang,'Elixir.ExRedis.Api.Helper','Elixir.String','Elixir.Atom',
+  'Elixir.Enum'],
+ [],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Config.beam">>,
+ 'Elixir.Exredis.Config',module,<<"lib/exredis/config.ex">>,
+ ['Elixir.Protocol','Elixir.Module','Elixir.Kernel.Utils','Elixir.Kernel',
+  'Elixir.Exredis.Config.Config','Elixir.Config'],
+ ['Elixir.Integer','Elixir.Application','Elixir.System','Elixir.Map',maps,
+  erlang,'Elixir.URI','Elixir.Dict','Elixir.String','Elixir.Enum'],
+ [],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.beam">>,
+ 'Elixir.Exredis',module,<<"lib/exredis.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.Module','Elixir.Kernel'],
+ ['Elixir.Integer','Elixir.Exredis.Config',erlang,'Elixir.String',
+  'Elixir.Exception','Elixir.IO','Elixir.Enum',eredis],
+ [],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Sub.beam">>,
+ 'Elixir.Exredis.Sub',module,<<"lib/exredis/sub.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.Module','Elixir.Kernel'],
+ ['Elixir.Exredis.Config','Elixir.List',eredis_sub,erlang,'Elixir.String',
+  'Elixir.Exception','Elixir.IO'],
+ [],nil}.
+{<<"/Users/marcbey/github/voting_service/_build/dev/lib/exredis/ebin/Elixir.Exredis.Api.beam">>,
+ 'Elixir.Exredis.Api',module,<<"lib/exredis/api.ex">>,
+ ['Elixir.Exredis.Api.Helper','Elixir.Module','Elixir.Kernel'],
+ ['Elixir.Map','Elixir.List','Elixir.Process',erlang,'Elixir.Exredis',
+  'Elixir.ExRedis.Api.Helper','Elixir.String','Elixir.ArgumentError',
+  'Elixir.Atom','Elixir.Enum'],
+ [],nil}.
